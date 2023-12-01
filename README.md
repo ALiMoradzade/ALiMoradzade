@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @ALiMoradzade
+- 👀 I Love MicroSoft
+- 🌱 I’m currently learning Python
+- 💞️ I’m looking for learning OODBMS too!
