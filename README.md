@@ -1,5 +1,5 @@
-<h1 align="center">Hey 👋, It's ALi, I am new here</h1>
-<h3 align="center">A passionate back-end developer from Iran,</h3>
+<h1 align="center">Hey 👋, It's ALi. I am new here</h1>
+<h3 align="center">A enthusiastic back-end developer from Iran</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=alimoradzade&label=Profile%20views&color=0e75b6&style=flat" alt="alimoradzade" /> </p>
 
