@@ -9,7 +9,7 @@
 
 - 🤝 I’m looking for help with **Asp.Net & OODBMS**
 
-- 💬 Ask me about **.net framework**
+- 💬 Ask me about **.Net Framework**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
