@@ -3,8 +3,17 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=alimoradzade&label=Profile%20views&color=0e75b6&style=flat" alt="alimoradzade" /> </p>
 
+- 🔭 I’m currently working on **encoding types & SQL**
+
+- 🌱 I’m currently learning **ORM**
+
+- 🤝 I’m looking for help with **Asp.Net & OODBMS**
+
+- 💬 Ask me about **.net framework**
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+  https://t.me/alicsharps
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
