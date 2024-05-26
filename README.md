@@ -14,6 +14,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://t.me/alicsharps" target="blank"><img align="center" src="https://user-images.githubusercontent.com/49933115/139837223-bf23d3a9-4638-4e17-994a-ac8678d5f517.png" alt="ALiCSharps" height="40" width="40" /></a>
+<a href="https://linkedin.com/in/alimoradzade" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="alimoradzade" height="30" width="40" /></a>
 <a href="https://discord.gg/sparkling_star_33516" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="sparkling_star_33516" height="30" width="40" /></a>
 </p>
 
